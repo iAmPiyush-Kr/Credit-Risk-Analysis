@@ -7,7 +7,7 @@
 ### Gathered a dataset simulating credit bureau data to deny or approve someone credit
 
 
-# Basic Steps:
+# Overall Steps:
 1. Exploring the Dataset(EDA)
 2. Applying Oversampling Techniques
 3. Test various machine learning models using Cross Validation technique
